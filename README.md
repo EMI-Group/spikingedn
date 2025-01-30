@@ -42,11 +42,12 @@ For evaluate procedure, execute: \
 # Paper Reference
 ```
 
-@article{zhang2023accurate,
-  title={Accurate and efficient event-based semantic segmentation using adaptive spiking encoder-decoder network},
-  author={Zhang, Rui and Leng, Luziwei and Che, Kaiwei and Zhang, Hu and Cheng, Jie and Guo, Qinghai and Liao, Jiangxing and Cheng, Ran},
-  journal={arXiv preprint arXiv:2304.11857},
-  year={2023}
+@article{zhang2024accurate,
+  title={Accurate and efficient event-based semantic segmentation using adaptive spiking encoder--decoder network},
+  author={Zhang, Rui and Leng, Luziwei and Che, Kaiwei and Zhang, Hu and Cheng, Jie and Guo, Qinghai and Liao, Jianxing and Cheng, Ran},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2024},
+  publisher={IEEE}
 }
 
 ```
